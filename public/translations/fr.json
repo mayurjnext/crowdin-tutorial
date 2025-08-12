@@ -14,5 +14,6 @@
   "error_message": "Something went wrong. Please try again later.",
   "success_message": "Your changes have been saved successfully.",
   "logout": "Log out",
-  "login": "Log in"
+  "login": "Log in",
+  "signup": "Sign up"
 }

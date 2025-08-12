@@ -3,6 +3,6 @@
   "sampleText": "Ejemplo <bold><italic>texto</italic></bold>.",
   "changed_one": "Has cambiado el idioma {{count}} vez",
   "changed_other": "Has cambiado el idioma {{count}} veces",
-  "language": "Language",
-  "dummyText": "This is a dummy text"
+  "language": "Idioma",
+  "dummyText": "Este es un texto tonto"
 }

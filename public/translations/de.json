@@ -1,0 +1,6 @@
+{
+  "welcome": "Willkommen!",
+  "sampleText": "Beispiel <bold><italic>Text</italic></bold>.",
+  "changed_one": "Sie haben die Sprache {{count}} Zeit geändert",
+  "changed_other": "Sie haben die Sprache {{count}} mal geändert"
+}

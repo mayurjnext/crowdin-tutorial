@@ -11,5 +11,8 @@
   "welcome_user": "Welcome, {name}!",
   "items_count": "You have {count} items in your cart.",
   "loading": "Loading...",
-  "error_message": "Something went wrong. Please try again later."
+  "error_message": "Something went wrong. Please try again later.",
+  "success_message": "Your changes have been saved successfully.",
+  "logout": "Log out",
+  "login": "Log in"
 }

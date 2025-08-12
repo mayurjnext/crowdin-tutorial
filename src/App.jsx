@@ -32,9 +32,13 @@ const App = () => {
             </Trans>
           </p>
           <p>{t("changed", { count })}</p>
+          <p>{t("language")}</p>
+          <p>{t("dummyText")}</p>
           <select name="language" onChange={onChange}>
             <option value="en">English</option>
             <option value="fr">French</option>
+            <option value="de">German</option>
+            <option value="es">Spanish</option>
           </select>
         </header>
       </div>

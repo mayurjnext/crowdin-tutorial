@@ -2,5 +2,7 @@
   "welcome": "Bienvenido!",
   "sampleText": "Ejemplo <bold><italic>texto</italic></bold>.",
   "changed_one": "Has cambiado el idioma {{count}} vez",
-  "changed_other": "Has cambiado el idioma {{count}} veces"
+  "changed_other": "Has cambiado el idioma {{count}} veces",
+  "language": "Idioma",
+  "dummyText": "Este es un texto tonto"
 }

@@ -4,5 +4,12 @@
   "changed_one": "Vous avez changé la langue {{count}} fois",
   "changed_other": "Vous avez changé la langue {{count}} fois",
   "language": "Langue",
-  "dummyText": "Ceci est un texte factice"
+  "dummyText": "Ceci est un texte factice",
+  "greeting": "Hello, world!",
+  "intro": "This is a test message for multi-language support.",
+  "cta": "Click here",
+  "welcome_user": "Welcome, {name}!",
+  "items_count": "You have {count} items in your cart.",
+  "loading": "Loading...",
+  "error_message": "Something went wrong. Please try again later."
 }

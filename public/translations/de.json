@@ -4,5 +4,12 @@
   "changed_one": "Sie haben die Sprache {{count}} Zeit geändert",
   "changed_other": "Sie haben die Sprache {{count}} mal geändert",
   "language": "Sprache",
-  "dummyText": "Dies ist ein Dummy-Text"
+  "dummyText": "Dies ist ein Dummy-Text",
+  "greeting": "Hello, world!",
+  "intro": "This is a test message for multi-language support.",
+  "cta": "Click here",
+  "welcome_user": "Welcome, {name}!",
+  "items_count": "You have {count} items in your cart.",
+  "loading": "Loading...",
+  "error_message": "Something went wrong. Please try again later."
 }

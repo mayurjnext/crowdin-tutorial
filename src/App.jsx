@@ -34,6 +34,16 @@ const App = () => {
           <p>{t("changed", { count })}</p>
           <p>{t("language")}</p>
           <p>{t("dummyText")}</p>
+          <p>{t("greeting")}</p>
+          <p>{t("intro")}</p>
+          <p>{t("cta")}</p>
+          <p>{t("welcome_user", { name: "John" })}</p>
+          <p>{t("items_count", { count: 10 })}</p>
+          <p>{t("loading")}</p>
+          <p>{t("error_message")}</p>
+          <p>{t("success_message")}</p>
+          <p>{t("logout")}</p>
+          <p>{t("login")}</p>
           <select name="language" onChange={onChange}>
             <option value="en">English</option>
             <option value="fr">French</option>

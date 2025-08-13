@@ -16,6 +16,8 @@
   "logout": "Log out",
   "login": "Log in",
   "signup": "Sign up",
-  "forgot_password": "Forgot password?"
-
+  "forgot_password": "Forgot password?",
+  "search": "Search",
+  "search_placeholder": "Search for a product",
+  "search_results": "Search results"
 }

@@ -44,6 +44,11 @@ const App = () => {
           <p>{t("success_message")}</p>
           <p>{t("logout")}</p>
           <p>{t("login")}</p>
+          <p>{t("signup")}</p>
+          <p>{t("forgot_password")}</p>
+          <p>{t("search")}</p>
+          <p>{t("search_placeholder")}</p>
+          <p>{t("search_results")}</p>
           <select name="language" onChange={onChange}>
             <option value="en">English</option>
             <option value="fr">French</option>

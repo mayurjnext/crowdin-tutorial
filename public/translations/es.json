@@ -15,5 +15,6 @@
   "success_message": "Your changes have been saved successfully.",
   "logout": "Log out",
   "login": "Log in",
-  "signup": "Sign up"
+  "signup": "Sign up",
+  "forgot_password": "¿Olvidaste la contraseña?"
 }
